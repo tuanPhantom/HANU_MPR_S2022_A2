@@ -8,7 +8,7 @@ MPR Spring 2022 - Assignment 2
 ## Warning
 One is entitled to work with this program under the GNU General Public License v3.0 except to submit any small part of this source code without the permission of Author Phan Quang Tuan and MPR Tutors from FIT-HANU.
 
-## About the Requirements
+## About the requirements
 Assignment requirements can be accessed from the following URL:
 https://drive.google.com/file/d/1CFNySI4l8PGaeEcbT3B0w4sjs_k10dbk/view?usp=sharing
 
