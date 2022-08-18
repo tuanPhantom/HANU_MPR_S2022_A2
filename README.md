@@ -2,8 +2,8 @@
 MPR Spring 2022 - Assignment 2
 
 ## Author
-Phan Quang Tuan - 1901040191 - HANU\n
-Some materials are derived from Tutor Nguyen Van Cong.
+- Phan Quang Tuan - 1901040191 - HANU<br/>
+- Some materials are derived from Tutor Nguyen Van Cong.
 
 ## Warning
 One is entitled to work with this program under the GNU General Public License v3.0 except to submit any small part of this source code without the permission of Author Phan Quang Tuan and MPR Tutors from FIT-HANU.
