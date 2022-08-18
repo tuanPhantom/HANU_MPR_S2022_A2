@@ -1,5 +1,6 @@
 # HANU_MPR2022_A2
-MPR Spring 2022 - Assignment 2
+MPR Spring 2022 - Assignment 2<br/>
+This repository contains all files in the `App` folder of the program. 
 
 ## About the authors
 - Author: Phan Quang Tuan - 1901040191<br/>phanquangtuandev@gmail.com
