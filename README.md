@@ -1,5 +1,8 @@
 # HANU_MPR2022_A2
-MPR Spring 2022 - Assignment 2<br/>
+MPR Spring 2022 - Assignment 2
+
+## Overview
+The program is written in Java for Android devices.<br/>
 This repository contains all files in the `App` folder of the program. 
 
 ## About the authors
