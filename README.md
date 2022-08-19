@@ -10,7 +10,7 @@ This repository contains all files in the `App` folder of the program.
 - Some materials are derived from Tutor Nguyen Van Cong<br/>congnv@hanu.edu.vn
 
 ## Warning
-One is entitled to work with this program under the GNU General Public License v3.0 except for submitting any small portion of this source code for the assignments of the FIT-HANU courses without the permission of Phan Quang Tuan and MPR Tutors (from FIT-HANU).
+One is entitled to work with this program under the GNU General Public License v3.0 <strong>except for submitting any small portion of this source code for the assignments of the FIT-HANU courses without the permission of Phan Quang Tuan and MPR Tutors (from FIT-HANU)</strong>.
 
 ## About the requirements
 Assignment requirements can be accessed from the following URL:
