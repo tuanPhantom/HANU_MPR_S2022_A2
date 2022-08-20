@@ -1,5 +1,5 @@
 # HANU_MPR2022_A2
-MPR Spring 2022 - Assignment 2
+MPR Spring 2022 - Assignment 2: My Cart
 
 ## Overview
 The program is written in Java for Android devices.<br/>
