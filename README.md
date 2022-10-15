@@ -1,4 +1,4 @@
-# HANU_MPR2022_A2
+# My Cart: an android app
 MPR Spring 2022 - Assignment 2: My Cart
 
 ## Overview
